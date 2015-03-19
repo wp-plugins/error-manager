@@ -1,5 +1,5 @@
 === Error Manager  ===
-Contributors: DLS Studios
+Contributors: dlsstudios
 Tags: error, handler, logging, alert
 Requires at least: 3.3
 Tested up to: 4.1
