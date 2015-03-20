@@ -41,7 +41,7 @@ This plugin requires at least PHP version 5.2 or higher
 
 = How do I turn on debugging in WordPress? =
 
-The simplest way is to add the line `define('WP_DEBUG', true);` in to your wp-config.php file.  However, for production sites you will want to make sure that errors are not displayed to the public on your frontend.  We recommend the following settings which will turn on debugging to you log file only...
+The simplest way is to add the line `define('WP_DEBUG', true);` in to your wp-config.php file.  However, for production sites you will want to make sure that errors are not displayed to the public on your frontend.  We recommend the following settings which will turn on debugging to your log file only...
 
 `
 define('WP_DEBUG', true);
