@@ -13,7 +13,7 @@ Log and send alerts for various errors as they happen throughout your WordPress 
 
 Keeping your site error free just got easier.  Get email alerts of PHP errors and 404's on your site.  The Error Manager plugin allows you to get better insights as to how your site is performing by sending you more visible alerts to the errors that are happening on your site.
 
-For additional features you can also check out our [Error Manager Pro](https://www.dlssoftwarestudios.com/downloads/error-manager-wordpress-plugin/) version.
+For additional features you can also check out our [Error Manager Pro](https://www.dlssoftwarestudios.com/downloads/error-manager-pro-wordpress-plugin/) version.
 
 = PHP Errors Options =
 * Instant email alerts on PHP Fatal Errors
